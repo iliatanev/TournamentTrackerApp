@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\Documents\\GitHub\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectUniqueName": "C:\\Users\\ITanev\\Source\\Repos\\iliatanev\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
       "projectName": "TrackerUI",
-      "projectPath": "E:\\Documents\\Documents\\GitHub\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectPath": "C:\\Users\\ITanev\\Source\\Repos\\iliatanev\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
       "packagesPath": "C:\\Users\\ITanev\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\Documents\\GitHub\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\obj\\",
+      "outputPath": "C:\\Users\\ITanev\\Source\\Repos\\iliatanev\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ITanev\\AppData\\Roaming\\NuGet\\NuGet.Config",
