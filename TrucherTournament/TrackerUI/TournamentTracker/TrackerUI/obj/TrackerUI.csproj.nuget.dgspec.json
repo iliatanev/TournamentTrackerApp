@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {}
+    "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
+    "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
         "projectName": "TrackerLibrary",
-        "projectPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectPath": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
         "packagesPath": "C:\\Users\\ITanev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ITanev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {
+    "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+        "projectUniqueName": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
         "projectName": "TrackerUI",
-        "projectPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+        "projectPath": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
         "packagesPath": "C:\\Users\\ITanev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\obj\\",
+        "outputPath": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ITanev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
-                "projectPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj"
+              "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
+                "projectPath": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj"
               }
             }
           }

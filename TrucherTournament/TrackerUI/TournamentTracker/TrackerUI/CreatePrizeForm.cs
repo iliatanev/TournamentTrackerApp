@@ -27,7 +27,25 @@ namespace TrackerUI
         {
             if ( ValidateForm() )
             {
-                PrizeModel model = new PrizeModel( placeNameValue.Text, placeNumberValue.Text, prizeAmountValue, );
+                PrizeModel model = new PrizeModel(
+                    placeNameValue.Text, 
+                    placeNumberValue.Text, 
+                    priceAmountValue.Text, 
+                    pricePercentageValue.Text ) ;
+
+                foreach (IDataConnection db in GlobalConfig.Connections)
+                {
+                    db.CreatePrize(model);
+
+                    placeNameValue.Text = "";
+                    placeNumberValue.Text = "";
+                    priceAmountValue.Text = "0";
+                    pricePercentageValue.Text = "0";
+                }
+            }
+            else
+            {
+                MessageBox.Show("This form has invalid info. Please check and try again!");
             }
         }
 

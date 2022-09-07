@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectUniqueName": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
       "projectName": "TrackerUI",
-      "projectPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectPath": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
       "packagesPath": "C:\\Users\\ITanev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\obj\\",
+      "outputPath": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ITanev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
-              "projectPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj"
+            "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
+              "projectPath": "C:\\Users\\ITanev\\source\\repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj"
             }
           }
         }
