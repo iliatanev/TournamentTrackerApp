@@ -16,7 +16,7 @@ namespace TrackerLibrary
                 // TODO Create the SQL Connection
             }
 
-            if (textFiles)
+            if ( textFiles )
             {
                 // TODO - Create the Text Connection
             }
