@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "TrackerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TrackerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrackerLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TrackerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TrackerLibrary/TrackerLibrary.csproj",
+      "msbuildProject": "../TrackerLibrary/TrackerLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "TrackerLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ITanev\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ITanev\\Source\\Repos\\iliatanev\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectUniqueName": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
       "projectName": "TrackerUI",
-      "projectPath": "C:\\Users\\ITanev\\Source\\Repos\\iliatanev\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+      "projectPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
       "packagesPath": "C:\\Users\\ITanev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ITanev\\Source\\Repos\\iliatanev\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\obj\\",
+      "outputPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ITanev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
+              "projectPath": "C:\\Users\\ITanev\\Source\\Repos\\TournamentTrackerApp\\TrucherTournament\\TrackerUI\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace TrackerLibrary
 {
-    internal class SqlConnector : IDataConnection
+    public class TextConnection : IDataConnection
     {
-        /// <summary>
-        /// Saves a bew oruze ti tge database
-        /// </summary>
-        /// <param name="model">The prize info.</param>
-        /// <returns>The prize info, including the uniqe id</returns>
+        // TODO - Wire up the CreatePrize for text files
         public PrizeModel CreatePrize(PrizeModel model)
         {
             model.Id = 1;
